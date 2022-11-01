@@ -1,3 +1,5 @@
+
+
 public class ComputerGuesser implements IGuesser
 {
 	private int min;
@@ -44,3 +46,4 @@ public class ComputerGuesser implements IGuesser
 	}
 
 }
+
